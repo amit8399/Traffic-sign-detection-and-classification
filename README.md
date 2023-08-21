@@ -1,4 +1,10 @@
 # Traffic sign detection and classification using GTSDB dataset
+#Group members:
+Amit Kumar(224101006)
+Aviral Singh(224101010)
+Abhishek Ranjan(224101003)
+Abinash Kumar Ray(224101062)
+Vivek Verma(224101059)
 
 Code 1 : Working code.  
 Code 2 : Faster RCNN code with neural network built from scratch. Inconsistent output.
